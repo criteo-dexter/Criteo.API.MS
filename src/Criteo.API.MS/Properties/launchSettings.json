@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Criteo.API.MS.netcore": {
+      "commandName": "Project",
+      "launchBrowser": true
+    }
+  }
+}

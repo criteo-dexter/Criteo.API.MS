@@ -1,0 +1,10 @@
+site_name: "Criteo.API.MS"
+site_description: "Testing templates"
+
+nav:
+  - Introduction: index.md
+
+repo_url: https://github.com/criteo-dexter/Criteo.API.MS
+
+plugins:
+  - techdocs-core
